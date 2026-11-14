@@ -1,3 +1,14 @@
 *.Po
 *.o
 *.dSYM/*
+/build/
+/autom4te.cache/
+/build_cmake/
+/.idea/.gitignore
+/compile
+/.idea/editor.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/skills/system/run-workflow/SKILL.md
+/test-driver
+/.idea/vcs.xml
