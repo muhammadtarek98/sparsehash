@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(sparsehashVERSION 2.0.4LANGUAGES C CXX)
+project(sparsehashVERSION 2.0.4 LANGUAGES C CXX)
 include(GNUInstallDirs)
 include(CMakePackageConfigHelpers)
 include(CheckIncludeFileCXX)
